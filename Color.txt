@@ -1,3 +1,5 @@
 1. red
 2. orange
 3. yellow
+4. blue
+5. beige
